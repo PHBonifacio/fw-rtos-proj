@@ -15,14 +15,11 @@
    to simple macros with numeric values, and/or #if/#endif blocks.
 */
 /*
-
- * Automatically generated file. DO NOT EDIT.
-
- * Espressif IoT Development Framework (ESP-IDF) Configuration Header
-
+ *
+ * Automatically generated file; DO NOT EDIT.
+ * Espressif IoT Development Framework Configuration
+ *
  */
-       
-/* List of deprecated options */
 /* If BT is not built at all */
 MEMORY
 {

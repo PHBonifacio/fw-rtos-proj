@@ -4,10 +4,9 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/msys32/home/pedro.bonifacio/esp/esp-idf/**",
-                "C:/msys32/home/pedro.bonifacio/esp/esp-idf/components/**",
-                "C:/msys32/home/pedro.bonifacio/esp/esp-idf/components/mqtt/esp-mqtt/include",
-                "C:/msys32/home/pedro.bonifacio/esp/esp-idf/components/esp_wifi/include"
+                "C:/msys32/home/PH/esp/esp-idf/**",
+                "C:/msys32/home/PH/esp/esp-idf/components/**",
+                "C:/msys32/home/PH/esp/esp-idf/components/mqtt/esp-mqtt/include"
             ],
             "defines": [
                 "_DEBUG",

@@ -12,4 +12,16 @@ config WIFI_PASSWORD
     help
         WiFi password (WPA or WPA2) for the example to use.
 
+config MQTT_URI
+    string "Mqtt Uri"
+    default "httmqtt//:"
+
+config MQTT_USER
+    string "Mqtt User"
+    default "User"
+
+config MQTT_PWRD
+    string "Mqtt Password"
+    default "Pswrd"
+    
 endmenu
